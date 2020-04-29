@@ -7,6 +7,17 @@
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
   <body>
+    <div id="sidebar" class="sidebar">
+      <div class="inner">
+        <header>
+          {% include header.html %}
+        </header>
+      </div>
+    </div>
+
     {{ content}}
+    <footer>
+      {% include footer.html %}
+    </footer>
   </body>
 </html>

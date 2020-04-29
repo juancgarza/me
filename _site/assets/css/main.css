@@ -12,3 +12,5 @@ code { padding: 2px 4px; vertical-align: text-bottom; }
 pre { padding: 1em; }
 
 a { color: #e81c4f; }
+
+footer { display: block; left: 0; bottom: 0; width: 100%; text-align: center; }
