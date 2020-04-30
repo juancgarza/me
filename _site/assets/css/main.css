@@ -13,4 +13,14 @@ pre { padding: 1em; }
 
 a { color: #e81c4f; }
 
-footer { display: block; left: 0; bottom: 0; width: 100%; text-align: center; }
+footer { margin-top: 50px; display: block; left: 0; bottom: 0; width: 100%; text-align: center; }
+
+html.dark body { background-color: #333333; color: #eeeeee; }
+html.dark code { color: #333333; }
+html.dark .header-name svg { fill: #eeeeee; }
+html.dark .sidebar-segment { background-color: #555555; box-shadow: 0 0px 10px 2px rgba(0, 0, 0, 0.25); }
+html.dark .sidebar h2 { color: #eeeeee; border-bottom: 1px solid #eeeeee; }
+html.dark #carbonads .carbon-text, html.dark .ad-text a { color: #eeeeee; }
+html.dark .bookworm path { fill: #97B9CC; }
+html.dark .theoretical path { fill: #FAAC1B; }
+html.dark .meta-tag, html.dark a.meta-tag:visited, html.dark a.meta-tag:hover { color: #333333; }
