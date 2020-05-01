@@ -7,13 +7,17 @@ h1, h2, strong { color: #333; }
 
 code, pre { background: #eee; }
 
-code { padding: 2px 4px; vertical-align: text-bottom; }
+code { padding: 2px 4px; vertical-align: text-bottom; max-width: 50em; }
 
 pre { padding: 1em; }
 
 a { color: #e81c4f; }
 
+.special-link { color: green; }
+
 footer { margin-top: 50px; display: block; left: 0; bottom: 0; width: 100%; text-align: center; }
+
+.header-links { margin-right: 15px; }
 
 html.dark body { background-color: #333333; color: #eeeeee; }
 html.dark code { color: #333333; }

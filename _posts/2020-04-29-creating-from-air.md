@@ -13,10 +13,15 @@ like you can build a house or a bridge by yourself with your own hands.
 There's a great quote from [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) that says:
 
 ```
-  The programmer, like the poet, works only slightly removed from pure thought-stuff. 
-  He builds his castles in the air, from air, creating by exertion of the imagination. 
-  Few media of creation are so flexible, so easy to polish and rework, 
-  so readily capable of realizing grand conceptual structures.
+  The programmer, like the poet, 
+  works only slightly removed from 
+  pure thought-stuff. 
+  He builds his castles in the air, from air,
+  creating by exertion of the imagination. 
+  Few media of creation are so flexible,
+  so easy to polish and rework, 
+  so readily capable of realizing 
+  grand conceptual structures.
 ```
 <sub><sup>This quote just gets me, although it may sound kind of douchy and show-off it describes the feeling when everything works fine to how you planned it on paper.</sup></sub>
 

@@ -33,6 +33,7 @@ pre {
 code {
   padding: 2px 4px;
   vertical-align: text-bottom;
+  max-width: 50em;
 }
 
 pre {
@@ -43,6 +44,10 @@ a {
   color: #e81c4f;
 }
 
+.special-link {
+  color: green;
+}
+
 footer {
   margin-top: 50px;
   display: block;
@@ -50,6 +55,10 @@ footer {
   bottom: 0;
   width: 100%;
   text-align: center;
+}
+
+.header-links {
+  margin-right: 15px;
 }
 
 html.dark{
