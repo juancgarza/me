@@ -4,6 +4,7 @@ title: Books
 ---
 
 ### I love reading, here are some interesting reads of mine in no particular order.
+## I'll highlight some particular extra favorites of mine in green.
 
 - - - - 
 
