@@ -3,16 +3,20 @@ layout: default
 title: Books
 ---
 
-### I love reading, here are some interesting reads of mine in no particular order.
-## I'll highlight some particular extra favorites of mine in green.
+## I love reading, here are some interesting reads of mine in no particular order.
+### I'll highlight some particular extra favorites of mine in green.
 
 - - - - 
 
 #### Fiction 
 - [Ready Player One](https://www.amazon.com/gp/product/030788743X/ref=x_gr_w_bb_sin?ie=UTF8&tag=x_gr_w_bb_sin-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=030788743X&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+
 - [The Shadow of the Wind](https://www.amazon.com/s?k=The+Shadow+of+the+Wind&i=stripbooks&adid=082VK13VJJCZTQYGWWCZ&campaign=211041&creative=374001&tag=x_gr_w_bb_sin-20&ref=x_gr_w_bb_sin)
+
 - [Siddhartha](https://www.amazon.com/gp/product/B07GVRDJTY/ref=x_gr_w_bb_sin?ie=UTF8&tag=x_gr_w_bb_sin-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B07GVRDJTY&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+
 - [The Three Body Problem](https://www.amazon.com/gp/product/B00IQO403K/ref=x_gr_w_bb_sin?ie=UTF8&tag=x_gr_w_bb_sin-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00IQO403K&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+
 - [Stories of your life and others](https://www.amazon.com/Stories-Your-Life-Others-Chiang-ebook/dp/B0048EKOP0/ref=sr_1_1?crid=QQKHF0O084C4&dchild=1&keywords=stories+of+your+life+and+others&qid=1588306650&s=digital-text&sprefix=stories+of+%2Cdigital-text%2C221&sr=1-1)
 
 ### Non-Fiction
