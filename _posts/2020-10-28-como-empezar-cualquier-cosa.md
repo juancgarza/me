@@ -1,0 +1,23 @@
+---
+  layout: page 
+  title: "Como empezar cualquier cosa"
+---
+
+***"All the real benefits of life come from compound interest." Naval Ravikant"*** 
+- - - - 
+
+Siempre me ha gustado la idea de escribir, durante mucho tiempo tuve la idea (la sigo teniendo) de escribir un libro. Aun nose de que será o si algún día realmente lo escribire pero para lograr ese reto siempre se empieza con pasos pequeños. Es por eso que he empezado a escribir en este blog, y me puse el reto interno de escribir mínimo 2 veces por semana.
+
+Hace algunos días leí un artículo en un blog, el título era: [Get started with 2-minute rule](https://hoanhan.co/2-minute-rule) y justo se trataba de como empezar a hacer cualquier cosa grande o retadora. 
+
+Para la gente que batalla en comprometerse a algo, cambiar tu mentalidad a hacer pequeños pasos puede hacer toda la diferencia. 
+
+* Leer un libro -> Leer una página 
+* Escribir un artículo -> Escribir una oración
+
+**El punto es empezar**, asi que si necesitas ayuda o quieres empezar tus compromisos de año nuevo desde Octubre entonces empieza con pasos pequeños y poco a poco llegarás a tu meta. 
+
+* Leer una página -> Leer 10 páginas -> Leer un capítulo
+* Ponerte zapatos de ejercicio -> Ir al gimnasio -> Bajar un kilo
+
+Para más información en estos temas les recomiendo el libro de [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) un libro que te ayuda crear habitos de una manera efectiva.
