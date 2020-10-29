@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <title>JCGR's blog - JC's essays</title>
     <link rel="stylesheet" href="/assets/css/main.css">
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
     <div id="sidebar" class="sidebar">
@@ -39,5 +40,16 @@ I like to write but don’t do it frequently, I will write about anything (I’m
 </p>
 
     </footer>
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>
