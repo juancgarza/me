@@ -7,6 +7,8 @@ title: Monterrey as a Startup Hub
 ### I wrote this a while back, hope it makes a great first post. 
 - - - - 
 
+### {{ page.date | date: '%B %d, %Y' }}
+
 I've been reading [PG's Essay "How to Make Pittsburgh a Startup Hub"](http://paulgraham.com/pgh.html). Can't help but notice that Monterrey, Mexico (my hometown) has many similarities as a city with Pittsburgh.
 Interesting read that gives me some ideas about how can Mty become a startup hub like SV.
 

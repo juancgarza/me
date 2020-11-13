@@ -6,6 +6,8 @@
 ## On the joy of creating stuff
 - - - -
 
+### {{ page.date | date: '%B %d, %Y' }}
+
 Ever since I've learned how to code I've thoroughly expressed how I love it. 
 The excitement of creating something from nothing is one of the best feelings of the world,
 like you can build a house or a bridge by yourself with your own hands.

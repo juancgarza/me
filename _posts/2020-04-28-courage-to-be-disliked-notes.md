@@ -3,6 +3,8 @@
   title: The Courage To Be Disliked Notes 
 ---
 
+### {{ page.date | date: '%B %d, %Y' }}
+
 [Link to book](https://www.amazon.com/The-Courage-to-be-Disliked/dp/1760630497/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1588131517&sr=8-2)
 
 ### This book was a gift from my girlfriend, tackles Alderian psychology narrated through the conversation of a young boy and an old philosopher.

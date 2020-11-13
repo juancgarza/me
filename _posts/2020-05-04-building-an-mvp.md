@@ -5,6 +5,7 @@
 
 ## Choosing what to build and what not to build.
 - - - -
+### {{ page.date | date: '%B %d, %Y' }}
 
 At this moment of time while I'm writing this article I currently work for a technology agency which makes digital products. We are paid to build the infrastructure of an up and coming technology startup. 
 
