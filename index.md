@@ -9,6 +9,8 @@ title: "JCGR's blog"
 
 My name is Juan Carlos what I mostly do is read and write code. I happily married my 5 year girlfriend in September 2020.
 
+We're having a baby girl named María in May 2022.
+
 I like to write but don't do it frequently, I will write about anything (I'm warning future readers that halfof my posts will be about tech and products)..
 
 ## My posts

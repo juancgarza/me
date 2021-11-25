@@ -1,9 +1,9 @@
 @import "https://fonts.googleapis.com/css?family=Roboto:300,400,500";
-body { background: #fff; color: #566b78; font-family: "system-ui", "Helvetica", "Arial", sans-serif; margin: 0 auto; max-width: 50em; line-height: 1.5; padding: 4em 1em; }
+body { background: #191b1f; color: lightgray; font-family: "system-ui", "Helvetica", "Arial", sans-serif; margin: 0 auto; max-width: 50em; line-height: 1.5; padding: 4em 1em; }
 
 h2 { margin-top: 1em; padding-top: 1em; }
 
-h1, h2, strong { color: #333; }
+h1, h2, strong { color: #f5efef; }
 
 code, pre { background: #eee; }
 
@@ -11,9 +11,9 @@ code { padding: 2px 4px; vertical-align: text-bottom; max-width: 50em; }
 
 pre { padding: 1em; }
 
-a { color: #e81c4f; }
+a { color: #ed4a73; }
 
-.special-link { color: green; }
+.special-link { color: #00b300; }
 
 footer { margin-top: 50px; display: block; left: 0; bottom: 0; width: 100%; text-align: center; }
 

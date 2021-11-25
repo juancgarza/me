@@ -1,7 +1,7 @@
 @import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
 
-$backgroundColor: #fff;
-$bodyColor: #566b78;
+$backgroundColor: rgb(25, 27, 31);
+$bodyColor: lightgray;
 $bodyFont: "system-ui","Helvetica", "Arial", sans-serif;
 
 body {
@@ -22,7 +22,7 @@ h2 {
 h1,
 h2,
 strong {
-  color: #333;
+  color: rgb(245, 239, 239);
 }
 
 code,
@@ -41,11 +41,13 @@ pre {
 }
 
 a {
-  color: #e81c4f;
+  color: #ed4a73;
 }
 
+// color: #ed4a73;
+// color: #00b300;
 .special-link {
-  color: green;
+  color: #00b300;
 }
 
 footer {
